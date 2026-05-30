@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightcoral;
+    font-size: 24px;
+}
+
+
+#id2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.big-font {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#id4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 32px;
+}
